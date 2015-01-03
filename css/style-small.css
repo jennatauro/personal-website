@@ -96,7 +96,14 @@
 /* One */
 
 	#one:before {
+		background-image: url("../images/Tauro-Photography-photographer-kitchener-waterloo-web.jpg");
+		background-position: top right;
+		background-repeat: no-repeat;
+		background-size: cover;
+		content: '';
+		display: block;
 		height: 330px;
+		width: 100%;
 	}
 
 /* Footer */
